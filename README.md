@@ -9,8 +9,8 @@ sssk
 🚀 **Favorite Project: [OrangBooster](https://github.com/Vakarux12/OrangBooster)**  
 check out my latest project! i made this with @adasjusk
 
-🌐 **InterJava Studio: [Oranges.lt](https://oranges.lt)**  
-im part of InterJava Studio. Visit us at [Oranges.lt](https://oranges.lt) please🙏
+🌐 **[InterJava Studio](https://github.com/InterJava-Studio)**
+im part of InterJava Studio. Visit us please🙏
 
 💻 **Fun Fact**  
 I use Arch btw 😉
