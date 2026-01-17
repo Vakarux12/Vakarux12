@@ -16,6 +16,21 @@ im part of InterJava Studio. Visit us please🙏
 I use Arch btw 😉
 
 ---
-*ignore this tho its ass and i know it*
-<!-- GitHub Stats (optional, remove if you don’t want it) -->
-![Vakarux12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vakarux12&show_icons=true&theme=radical)
+<p>
+<picture>
+  <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg">
+</picture>
+</p>
