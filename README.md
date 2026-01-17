@@ -3,9 +3,6 @@
 🎓 **Self-Taught**  
 why buy courses when you got chatgpt
 
-🐍 **Python Enthusiast**  
-sssk
-
 🚀 **Favorite Project: [OrangBooster](https://github.com/Vakarux12/OrangBooster)**  
 check out my latest project! i made this with @adasjusk
 
