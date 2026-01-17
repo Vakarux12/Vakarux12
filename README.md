@@ -14,10 +14,10 @@ I use Arch btw 😉
 
 ---
 <p>
-<picture>
+<!-- <picture> 
   <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
-</picture>
+</picture> -->
 <picture>
   <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
   <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg">
