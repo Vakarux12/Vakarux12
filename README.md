@@ -13,4 +13,5 @@ You won't find anything special in here lol
   <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
 </picture> 
 </p>
+
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakarux12&size_weight=0.5&count_weight=0.5)
