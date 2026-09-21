@@ -9,9 +9,7 @@ You won't find anything special in here lol
 ---
 <p>
 <picture> 
-  <source srcset="https://github.com/Vakarux12/stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg">
+  <source srcset="https://raw.githubusercontent.com/Vakarux12/stats/main/output/github-metrics.svg">
+  <img src="https://raw.githubusercontent.com/Vakarux12/stats/main/output/github-metrics.svg">
 </picture> 
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakarux12&size_weight=0.5&count_weight=0.5&theme=dark)
